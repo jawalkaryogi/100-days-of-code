@@ -39,3 +39,4 @@
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+ https://www.youtube.com/watch?v=XGf2GcyHPhc&t=2290s
