@@ -17,3 +17,23 @@
 
 **Link to work:**
 
+### Day 3: April 12, 2020
+
+**Today's Progress**: a.Finished Developing Snake game using python
+B.Started Python Course on Udmey 15%Completed
+**Thoughts:**  feeling excited about this journey ,walked 3 steps a long way to go #100DaysofCode
+
+### Day 4: April 13, 2020
+
+**Today's Progress**: a Didn't code much but continued Python Course on Udmey 22%Completed
+**Thoughts:**  Enjoying #100DaysofCode
+
+### Day 5: April 14, 2020
+
+**Today's Progress**: a Didn't code much but continued Python Course on Udmey 30%Completed
+**Thoughts:**  Learning is awesome #100DaysofCode
+
+### Day 6: April 15, 2020
+
+**Today's Progress**:  Continued Python Course on Udmey 35%Completed
+**Thoughts:**  Learning is awesome #100DaysofCode
